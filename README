@@ -1,0 +1,15 @@
+# Pic Poet
+
+Pic Poet is an android application that allows the user to generate a poem with their photos.
+
+## Features
+
+- Pic poet takes the photo you take with the in app camera, and generates a poem using chat GPT 4 turbo.
+
+## Installation
+
+1. Clone the repository: `git clone`
+2. Install the dependencies: `npm install`
+
+## Download
+[Download the application on the Google Play store](https://play.google.com/store/apps/details?id=com.cosmicavian.picpoet)
